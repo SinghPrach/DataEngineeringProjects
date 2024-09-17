@@ -1,4 +1,3 @@
 **Problem Statement**
+Data Engineering on a weather dataset.
 
-**Dataset Used**
-https://www.kaggle.com/datasets/swatikhedekar/python-project-on-weather-dataset
